@@ -1,0 +1,58 @@
+{
+  "phone": [
+    {
+      "name": "Samsung Galaxy A52 (Blue, 8GB RAM, 128GB Storage)",
+      "image": "https://m.media-amazon.com/images/I/5134aj-bXnL._AC_.jpg"
+    },
+    {
+      "name": "realme narzo 60X 5G（Nebula Purple 6GB,128GB Storage)",
+      "image": "https://m.media-amazon.com/images/I/41snmTn9mrL._AC_.jpg"
+    },
+    {
+      "name": "realme narzo 60 5G (Ma₹ Orange,8GB+128GB)",
+      "image": "https://m.media-amazon.com/images/I/41EzGyFJ2LL._AC_.jpg"
+    },
+    {
+      "name": "realme narzo 60 5G (Cosmic Black,8GB+128GB)",
+      "image": "https://m.media-amazon.com/images/I/41snmTn9mrL._AC_.jpg"
+    }
+  ],
+  "specifications": [
+    {
+      "price": [
+        { "mrp": "₹ 17,999", "off": "₹ 16,999" },
+        { "mrp": "₹ 12,999", "off": "₹ 11,999" },
+        { "mrp": "₹ 16,999", "off": "₹ 15,999" },
+        { "mrp": "₹ 15,999", "off": "₹ 14,999" }
+      ],
+      "Delivery": [
+        { "date": "Sunday 25 Feb" },
+        { "date": "Monday 26 Feb" },
+        { "date": "Saturday 24 Feb" },
+        { "date": "Sunday 25 Feb" }
+      ],
+      "FingerprintReader": ["yes", "yes", "yes", "yes "],
+      "DisplaySize": ["6.5 inches", "6.4 inches", "6.4 inches", "6.4 inches"],
+      "MemoryCapacity": ["128 GB", "128 GB", "128 GB", "128 GB"],
+      "ModelName": [
+        "Samsung Galaxy M34 5G",
+        "realme narzo 60 5G",
+        "realme narzo 60 5G",
+        "realme narzo 60 5G"
+      ],
+      "OperatingSystem": [
+        "Android 13.0",
+        "Android 13.0",
+        "Android 13.0",
+        "Android 13.0"
+      ],
+      "ConnectivityTech": [
+        "Bluetooth, USB, Wi-Fi, NFC",
+        "USB, Bluetooth, Wi-Fi",
+        "USB, Wi-Fi, NFC",
+        "Bluetooth, USB, Wi-Fi"
+      ],
+      "DisplayType": ["AMOLED", "AMOLED", "AMOLED", "AMOLED"]
+    }
+  ]
+}
