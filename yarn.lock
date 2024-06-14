@@ -1141,6 +1141,11 @@
   dependencies:
     glob "7.1.7"
 
+"@next/swc-wasm-nodejs@^14.2.4":
+  version "14.2.4"
+  resolved "https://registry.npmjs.org/@next/swc-wasm-nodejs/-/swc-wasm-nodejs-14.2.4.tgz"
+  integrity sha512-/n4MYNYHnv1Ib4CrH1py3wtG8w60uYNKrTZp5JoBUc0X3uWXm0m/tooIEFfFdezhKeVQRLEEhMpgnRSDYpw6Lg==
+
 "@next/swc-win32-x64-msvc@12.2.2":
   version "12.2.2"
   resolved "https://registry.npmjs.org/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.2.2.tgz"
